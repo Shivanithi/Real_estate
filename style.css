@@ -130,6 +130,7 @@ footer {
     from { opacity: 0; }
     to { opacity: 1; }
 }
-[11:08 pm, 16/02/2026] Ba ♥️♥️: .card:hover {
+.card:hover {
     transform: scale(1.05);
+
 }
